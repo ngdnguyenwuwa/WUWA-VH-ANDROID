@@ -145,89 +145,44 @@
   ],
   "configs": [
     {
-      "name": "Android/High-Ultra",
+      "name": "Tất cả t.bị/High-Ultra",
       "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/High-Ultra/Engine.ini",
       "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/High-Ultra/DeviceProfiles.ini"
     },
     {
-      "name": "Android/Low-Medium_1",
+      "name": "Tất cả t.bị/Low-Medium_1",
       "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/Low-Medium_1/Engine.ini",
       "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/Low-Medium_1/DeviceProfiles.ini"
     },
     {
-      "name": "Android/Low-Medium_2",
+      "name": "Tất cả t.bị/Low-Medium_2",
       "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/Low-Medium_2/Engine.ini",
       "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/Low-Medium_2/DeviceProfiles.ini"
     },
     {
-      "name": "Android/Ultra Low",
+      "name": "Tất cả t.bị/Ultra Low",
       "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/Ultra%20Low/Engine.ini",
       "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/Ultra%20Low/DeviceProfiles.ini"
     },
     {
-      "name": "Mediatek/High-Ultra",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Mediatek/High-Ultra/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Mediatek/High-Ultra/DeviceProfiles.ini"
-    },
-    {
-      "name": "Mediatek/Low-Medium_1",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Mediatek/Low-Medium_1/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Mediatek/Low-Medium_1/DeviceProfiles.ini"
-    },
-    {
-      "name": "Mediatek/Low-Medium_2",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Mediatek/Low-Medium_2/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Mediatek/Low-Medium_2/DeviceProfiles.ini"
-    },
-    {
-      "name": "Mediatek/Ultra Low",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Mediatek/Ultra%20Low/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Mediatek/Ultra%20Low/DeviceProfiles.ini"
-    },
-    {
-      "name": "Snap/Visual High End",
+      "name": "Chỉ Snap/Visual High End",
       "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Visual%20High%20End/Engine.ini",
       "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Visual%20High%20End/DeviceProfiles.ini"
     },
     {
-      "name": "Snap/Balanced Visual",
+      "name": "Chỉ Snap/Balanced Visual",
       "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Balanced%20Visual/Engine.ini",
       "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Balanced%20Visual/DeviceProfiles.ini"
     },
     {
-      "name": "Snap/Balanced Perfoma",
+      "name": "Chỉ Snap/Balanced Perfoma",
       "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Balanced%20Perfoma/Engine.ini",
       "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Balanced%20Perfoma/DeviceProfiles.ini"
     },
     {
-      "name": "Snap/Ultra Perfoma",
+      "name": "Chỉ Snap/Ultra Perfoma",
       "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Ultra%20Perfoma/Engine.ini",
       "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Ultra%20Perfoma/DeviceProfiles.ini"
-    },
-    {
-      "name": "Snap/No Texture",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/No%20Texture/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/No%20Texture/DeviceProfiles.ini"
-    },
-    {
-      "name": "Snap/High-Ultra",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/High-Ultra/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/High-Ultra/DeviceProfiles.ini"
-    },
-    {
-      "name": "Snap/Low-Medium_1",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Low-Medium_1/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Low-Medium_1/DeviceProfiles.ini"
-    },
-    {
-      "name": "Snap/Low-Medium_2",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Low-Medium_2/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Low-Medium_2/DeviceProfiles.ini"
-    },
-    {
-      "name": "Snap/Ultra Low",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Ultra%20Low/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Ultra%20Low/DeviceProfiles.ini"
     }
   ],
   "skins": [
