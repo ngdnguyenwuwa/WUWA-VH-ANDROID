@@ -81,7 +81,7 @@ thì hãy mở game, vào màn hình chính, chờ tải xong rồi thoát ra v�
 ## 4. Cài app WUWA Việt hóa
 - ## Lưu ý không cài bất kỳ app Việt Hoá nào khác
 
-1. Tải file [APK](https://github.com/ngdnguyen315/WUWA-VH-ANDROID/releases/latest) của app. https://github.com/ngdnguyen315/WUWA-VH-ANDROID/releases/latest
+1. Tải file [APK](https://github.com/ngdnguyenwuwa/WUWA-VH-ANDROID/releases/latest) của app. https://github.com/ngdnguyenwuwa/WUWA-VH-ANDROID/releases/latest
 2. Cài APK vào máy.
 3. Mở app.
 

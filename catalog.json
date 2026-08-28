@@ -1,257 +1,257 @@
 {
-  "default_bg_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/bg.mp4",
-  "default_static_bg_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/bg.png",
-  "default_bg_land_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/bgl.mp4",
-  "default_static_bg_land_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/bgl.jpg",
-  "default_bgm_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/bgm.mp3",
+  "default_bg_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/bg.mp4",
+  "default_static_bg_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/bg.png",
+  "default_bg_land_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/bgl.mp4",
+  "default_static_bg_land_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/bgl.jpg",
+  "default_bgm_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/bgm.mp3",
   "shizuku_apk_url": "https://github.com/RikkaApps/Shizuku/releases/download/v13.6.0/shizuku-v13.6.0.r1086.2650830c-release.apk",
   "fonts": [
     {
       "name": "FixedsysExcelsior.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/FixedsysExcelsior.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/FixedsysExcelsior.ttf"
     },
     {
       "name": "GenshinFont.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/GenshinFont.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/GenshinFont.ttf"
     },
     {
       "name": "MontserratBold.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/MontserratBold.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/MontserratBold.ttf"
     },
     {
       "name": "MontserratBoldItalic.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/MontserratBoldItalic.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/MontserratBoldItalic.ttf"
     },
     {
       "name": "MontserratLight.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/MontserratLight.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/MontserratLight.ttf"
     },
     {
       "name": "MontserratLightItalic.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/MontserratLightItalic.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/MontserratLightItalic.ttf"
     },
     {
       "name": "Philosopher.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/Philosopher.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/Philosopher.ttf"
     },
     {
       "name": "Quicksand.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/Quicksand.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/Quicksand.ttf"
     },
     {
       "name": "Signika-Bold.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/Signika-Bold.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/Signika-Bold.ttf"
     },
     {
       "name": "SourceSans3-Black.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SourceSans3-Black.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SourceSans3-Black.ttf"
     },
     {
       "name": "SourceSans3-Bold.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SourceSans3-Bold.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SourceSans3-Bold.ttf"
     },
     {
       "name": "SourceSans3-Medium.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SourceSans3-Medium.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SourceSans3-Medium.ttf"
     },
     {
       "name": "SourceSans3-SemiBold.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SourceSans3-SemiBold.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SourceSans3-SemiBold.ttf"
     },
     {
       "name": "SRNCookieRun-Regular.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SRNCookieRun-Regular.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SRNCookieRun-Regular.ttf"
     },
     {
       "name": "SVN-Bali_Script.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Bali_Script.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Bali_Script.ttf"
     },
     {
       "name": "SVN-Beloved.otf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Beloved.otf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Beloved.otf"
     },
     {
       "name": "SVN-Blenda_Script.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Blenda_Script.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Blenda_Script.ttf"
     },
     {
       "name": "SVN-Caprica_Script.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Caprica_Script.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Caprica_Script.ttf"
     },
     {
       "name": "SVN-Clementine.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Clementine.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Clementine.ttf"
     },
     {
       "name": "SVN-Coco_FY.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Coco_FY.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Coco_FY.ttf"
     },
     {
       "name": "SVN-Franko.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Franko.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Franko.ttf"
     },
     {
       "name": "SVN-Genica_Pro.otf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Genica_Pro.otf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Genica_Pro.otf"
     },
     {
       "name": "SVN-Hole_Hearted.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Hole_Hearted.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Hole_Hearted.ttf"
     },
     {
       "name": "SVN-Internation.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Internation.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Internation.ttf"
     },
     {
       "name": "SVN-Larch_Shaded.otf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Larch_Shaded.otf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Larch_Shaded.otf"
     },
     {
       "name": "SVN-Lobster.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Lobster.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Lobster.ttf"
     },
     {
       "name": "SVN-Monday.otf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Monday.otf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Monday.otf"
     },
     {
       "name": "SVN-Steady.otf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-Steady.otf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-Steady.otf"
     },
     {
       "name": "SVN-TradeMark.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/SVN-TradeMark.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/SVN-TradeMark.ttf"
     },
     {
       "name": "TSMaka-SemiboldFont.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/TSMaka-SemiboldFont.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/TSMaka-SemiboldFont.ttf"
     },
     {
       "name": "UTMAlexander.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/UTMAlexander.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/UTMAlexander.ttf"
     },
     {
       "name": "VongXuyen.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/VongXuyen.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/VongXuyen.ttf"
     },
     {
       "name": "WixMadeforDisplayRegularFont.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/WixMadeforDisplayRegularFont.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/WixMadeforDisplayRegularFont.ttf"
     },
     {
       "name": "WuWaTechTest.ttf",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/fonts/WuWaTechTest.ttf"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/fonts/WuWaTechTest.ttf"
     }
   ],
   "configs": [
     {
       "name": "Tất cả t.bị/High-Ultra",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/High-Ultra/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/High-Ultra/DeviceProfiles.ini"
+      "engine_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Android/High-Ultra/Engine.ini",
+      "device_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Android/High-Ultra/DeviceProfiles.ini"
     },
     {
       "name": "Tất cả t.bị/Low-Medium_1",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/Low-Medium_1/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/Low-Medium_1/DeviceProfiles.ini"
+      "engine_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Android/Low-Medium_1/Engine.ini",
+      "device_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Android/Low-Medium_1/DeviceProfiles.ini"
     },
     {
       "name": "Tất cả t.bị/Low-Medium_2",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/Low-Medium_2/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/Low-Medium_2/DeviceProfiles.ini"
+      "engine_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Android/Low-Medium_2/Engine.ini",
+      "device_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Android/Low-Medium_2/DeviceProfiles.ini"
     },
     {
       "name": "Tất cả t.bị/Ultra Low",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/Ultra%20Low/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Android/Ultra%20Low/DeviceProfiles.ini"
+      "engine_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Android/Ultra%20Low/Engine.ini",
+      "device_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Android/Ultra%20Low/DeviceProfiles.ini"
     },
     {
       "name": "Chỉ Snap/Visual High End",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Visual%20High%20End/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Visual%20High%20End/DeviceProfiles.ini"
+      "engine_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Snap/Visual%20High%20End/Engine.ini",
+      "device_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Snap/Visual%20High%20End/DeviceProfiles.ini"
     },
     {
       "name": "Chỉ Snap/Balanced Visual",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Balanced%20Visual/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Balanced%20Visual/DeviceProfiles.ini"
+      "engine_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Snap/Balanced%20Visual/Engine.ini",
+      "device_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Snap/Balanced%20Visual/DeviceProfiles.ini"
     },
     {
       "name": "Chỉ Snap/Balanced Perfoma",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Balanced%20Perfoma/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Balanced%20Perfoma/DeviceProfiles.ini"
+      "engine_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Snap/Balanced%20Perfoma/Engine.ini",
+      "device_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Snap/Balanced%20Perfoma/DeviceProfiles.ini"
     },
     {
       "name": "Chỉ Snap/Ultra Perfoma",
-      "engine_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Ultra%20Perfoma/Engine.ini",
-      "device_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/config/Snap/Ultra%20Perfoma/DeviceProfiles.ini"
+      "engine_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Snap/Ultra%20Perfoma/Engine.ini",
+      "device_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/config/Snap/Ultra%20Perfoma/DeviceProfiles.ini"
     }
   ],
   "skins": [
     {
       "name": "SkinMod_Lynae_99_P.pak",
       "label": "Lynae (Đã fix 24/7/2026)",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/skins/SkinMod_Lynae_99_P.pak"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Lynae_99_P.pak"
     },
     {
       "name": "SkinMod_Chisa_99_P.pak",
       "label": "Chisa (Đã fix 24/7/2026)",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/skins/SkinMod_Chisa_99_P.pak"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Chisa_99_P.pak"
     },
     {
       "name": "SkinMod_Hiyuki_99_P.pak",
       "label": "Hiyuki(cài đc nhưng đang lỗi :) )",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/skins/SkinMod_Hiyuki_99_P.pak"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Hiyuki_99_P.pak"
     },
     {
       "name": "SkinMod_Carlotta_99_P.pak",
       "label": "Carlotta",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/skins/SkinMod_Carlotta_99_P.pak"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Carlotta_99_P.pak"
     },
     {
       "name": "SkinMod_Changli_99_P.pak",
       "label": "Changli",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/skins/SkinMod_Changli_99_P.pak"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Changli_99_P.pak"
     },
     {
       "name": "SkinMod_Jinhsi_99_P.pak",
       "label": "Jinhsi",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/skins/SkinMod_Jinhsi_99_P.pak"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Jinhsi_99_P.pak"
     },
     {
       "name": "SkinMod_Mornye_99_P.pak",
       "label": "Mornye",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/skins/SkinMod_Mornye_99_P.pak"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Mornye_99_P.pak"
     },
     {
       "name": "SkinMod_Sanhua_99_P.pak",
       "label": "Sanhua",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/skins/SkinMod_Sanhua_99_P.pak"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Sanhua_99_P.pak"
     },
     {
       "name": "SkinMod_Zani_99_P.pak",
       "label": "Zani",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/skins/SkinMod_Zani_99_P.pak"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Zani_99_P.pak"
     }
   ],
   "wuwa_translations": [
     {
       "key": "cn",
       "name": "🀄 Trung-Việt (CN-VI)",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/WuWaVHCN_99_P.pak",
-      "updated_at_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/.github/pak_versions/cn_updated_at.txt"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/WuWaVHCN_99_P.pak",
+      "updated_at_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/.github/pak_versions/cn_updated_at.txt"
     },
     {
       "key": "en",
       "name": "🔤 Anh-Việt (EN-VI)",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/WuWaVHEN_99_P.pak",
-      "updated_at_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/.github/pak_versions/en_updated_at.txt"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/WuWaVHEN_99_P.pak",
+      "updated_at_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/.github/pak_versions/en_updated_at.txt"
     }
   ],
   "nte_translations": [
     {
       "key": "nte",
       "name": "🌃 NTE Việt Hóa",
-      "url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/NTEVH_99_P.pak",
-      "updated_at_url": "https://raw.githubusercontent.com/ngdnguyen315/WUWA-VH-ANDROID/main/.github/pak_versions/nte_updated_at.txt"
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/NTEVH_99_P.pak",
+      "updated_at_url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/.github/pak_versions/nte_updated_at.txt"
     }
   ]
 }
