@@ -188,48 +188,8 @@
   "skins": [
     {
       "name": "SkinMod_Lynae_99_P.pak",
-      "label": "Lynae (Đã fix 24/7/2026)",
-      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Lynae_99_P.pak"
-    },
-    {
-      "name": "SkinMod_Chisa_99_P.pak",
-      "label": "Chisa (Đã fix 24/7/2026)",
-      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Chisa_99_P.pak"
-    },
-    {
-      "name": "SkinMod_Hiyuki_99_P.pak",
-      "label": "Hiyuki(cài đc nhưng đang lỗi :) )",
-      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Hiyuki_99_P.pak"
-    },
-    {
-      "name": "SkinMod_Carlotta_99_P.pak",
-      "label": "Carlotta",
-      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Carlotta_99_P.pak"
-    },
-    {
-      "name": "SkinMod_Changli_99_P.pak",
-      "label": "Changli",
-      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Changli_99_P.pak"
-    },
-    {
-      "name": "SkinMod_Jinhsi_99_P.pak",
-      "label": "Jinhsi",
-      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Jinhsi_99_P.pak"
-    },
-    {
-      "name": "SkinMod_Mornye_99_P.pak",
-      "label": "Mornye",
-      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Mornye_99_P.pak"
-    },
-    {
-      "name": "SkinMod_Sanhua_99_P.pak",
-      "label": "Sanhua",
-      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Sanhua_99_P.pak"
-    },
-    {
-      "name": "SkinMod_Zani_99_P.pak",
-      "label": "Zani",
-      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skins/SkinMod_Zani_99_P.pak"
+      "label": "Tạm đóng chức năng :))",
+      "url": "https://raw.githubusercontent.com/ngdnguyenwuwa/WUWA-VH-ANDROID/main/skin"
     }
   ],
   "wuwa_translations": [
