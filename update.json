@@ -1,6 +1,6 @@
 ﻿{
-    "version": "1.8.3",
-    "apk_url": "https://github.com/ngdnguyenwuwa/WUWA-VH-ANDROID/releases/download/v1.8.3/WUWA_VH_1.8.3.apk",
-    "page_url": "https://github.com/ngdnguyenwuwa/WUWA-VH-ANDROID/releases/tag/v1.8.3",
-    "notes": "📢 Cập nhật 1.8.3\r\n\r\n- Update thêm buộc tắt CSharp cho ai bị dính mà muốn tắt"
+    "version":  "2.0.0",
+    "apk_url":  "https://github.com/ngdnguyenwuwa/WUWA-VH-ANDROID/releases/download/v2.0.0/WUWA_VH_2.0.0.apk",
+    "page_url":  "https://github.com/ngdnguyenwuwa/WUWA-VH-ANDROID/releases/tag/v2.0.0",
+    "notes":  "📢 Cập nhật 2.0.0\n\n- Update thêm mod wuwa (video demo https://vt.tiktok.com/ZSqpTdjCF/)\n- (bản mod yêu cầu c#)\n- Hỗ trợ chiến đấu mạnh mẽ: Bất tử, vô hạn thể lực, tự động né/đánh, hút quái và gia tăng sát thương.\n- Tiện ích khám phá \u0026 Cày cuốc: Hack xuyên tường, dịch chuyển tức thời, hiện vị trí rương/quái (ESP) và Auto nhặt đồ.\n- Tùy biến đa dạng: Mở khóa toàn bộ nhân vật/skin (hiển thị local), thay đổi kích thước nhân vật và Fake UID.\n- v..v...\n- Chi tiết xem trong thông tin mod sau khi Update\n- Các chức năng mn dùng thì tự tìm hiểu nhé :))))"
 }
